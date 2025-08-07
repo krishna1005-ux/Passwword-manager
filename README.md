@@ -32,4 +32,3 @@ This is a desktop-based **Password Manager** application built using **Python** 
 
 
 ```bash
-git clone https://github.com/your-username/password-manager-python.git
